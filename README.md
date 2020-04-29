@@ -9,3 +9,6 @@ Final result: Loss : 54 % Accuracy: 74%
 Image class prediction based on Imagenet dataset (ResNet50)
 
 
+3. DataWorkshop Transformation 3 - dw_matrix_road_sign 
+
+ Another fantastic initiative (check out for more details: https://dataworkshop.eu/) organized by Dataworkshop and led by CEO  Vladimir Alekseichenko. This time we are going through concolutional neural network with the main goal to predict road signs.
